@@ -1,0 +1,23 @@
+{
+  "name": "portfolio-website-jissmonjose",
+  "version": "1.0.0",
+  "description": "portfolio website",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jisshub/portfolio-website-jissmonjose.git"
+  },
+  "author": "Jissmon Jose",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jisshub/portfolio-website-jissmonjose/issues"
+  },
+  "homepage": "https://github.com/jisshub/portfolio-website-jissmonjose#readme",
+  "dependencies": {
+    "gh-pages": "^4.0.0",
+    "node-sass": "^7.0.3"
+  }
+}
